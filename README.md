@@ -388,3 +388,4 @@ migliore:
 [1]: https://en.wikipedia.org/wiki/SRGB#The_sRGB_transfer_function_("gamma")
 [2]: https://en.wikipedia.org/wiki/Luma_(video)
 
+# esercizi1lab_Ia_Cami
